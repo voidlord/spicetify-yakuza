@@ -6,19 +6,19 @@
 
 **Linux**
 ```bash
-cd Yakuza
+cd spicetify-yakuza
 cp -r * ~/.config/spicetify/Themes
 ```
 
 **MacOS**
 ```bash
-cd Yakuza
+cd spicetify-yakuza
 cp -r * ~/.config/spicetify/Themes
 ```
 
 **Windows**
 ```powershell
-cd Yakuza
+cd spicetify-yakuza
 cp * "$(spicetify -c | Split-Path)\Themes\" -Recurse
 ```
 
