@@ -732,3 +732,20 @@
   .playlist-playlist-playlistContent {
     background: none;
   }
+
+  .EmeHQXR87mUskYK6xEde {
+    background-color: transparent;
+  }
+
+  .main-entityHeader-imagePlaceholder {
+    background-color: transparent;
+  }
+
+  .main-entityHeader-background.main-entityHeader-overlay {
+    display: none;
+  }
+
+  .under-main-view {
+    background: linear-gradient(to bottom, rgba(83, 83, 83, 0) 75%, rgba(83, 83, 83, 1) 5%, transparent);
+    opacity: 0.9;
+  }
